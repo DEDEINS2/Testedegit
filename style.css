@@ -1,3 +1,9 @@
 body {
     background-color: aqua;
+    color: black;
+    margin: 0; /* Remove o espaço padrão */
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 50vh; /* Define a altura do body para a altura total da janela */
 }
